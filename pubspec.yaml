@@ -1,0 +1,5 @@
+name:  redirector
+description:  Simple redirect to www.domain.example to solve the naked domain problem
+
+#dependencies:
+#  unittest: { sdk: unittest }
